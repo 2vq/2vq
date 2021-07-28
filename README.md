@@ -1,16 +1,14 @@
-### Hi there 👋
+# drangheta
+<p align="center">
+  <a href="https://github.com/drangheta">
+    <img src="https://discord.c99.nl/widget/theme-4/812224155608547348.png"/>
+     </a>
+</p>
+<img src="https://komarev.com/ghpvc/?username=drangheta&color=blue"/>
 
-<!--
-**drangheta/drangheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stats
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=drangheta&layout=compact&theme=dark) 
+![stats](https://github-readme-stats.vercel.app/api?username=drangheta&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+Insta: @dranghetas ( https://instagram.com/dranghetas ) </br>

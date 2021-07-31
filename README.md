@@ -9,6 +9,3 @@
 # Stats
 ![c](https://github-readme-stats.vercel.app/api/top-langs/?username=emwie&layout=compact&theme=dark) 
 ![stats](https://github-readme-stats.vercel.app/api?username=emwie&show_icons=true&theme=dark)
-
-# Contact
-Insta: @dranghetas ( https://instagram.com/dranghetas ) </br>

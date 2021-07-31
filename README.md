@@ -7,8 +7,8 @@
 <img src="https://komarev.com/ghpvc/?username=emwie&color=blue"/>
 
 # Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=drangheta&layout=compact&theme=dark) 
-![stats](https://github-readme-stats.vercel.app/api?username=drangheta&show_icons=true&theme=dark)
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=emwie&layout=compact&theme=dark) 
+![stats](https://github-readme-stats.vercel.app/api?username=emwie&show_icons=true&theme=dark)
 
 # Contact
 Insta: @dranghetas ( https://instagram.com/dranghetas ) </br>

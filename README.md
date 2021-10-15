@@ -1,7 +1,7 @@
 # HellaHigh
 <p align="center">
   <a href="https://github.com/aimvelocity">
-    <img src="https://discord.c99.nl/widget/theme-4/812224155608547348.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/896776566573522944.png"/>
      </a>
 
 # Stats

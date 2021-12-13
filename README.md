@@ -1,3 +1,6 @@
+# Profile Views
+![](https://komarev.com/ghpvc/?username=8nz)
+
 <p align="center">
   <a href="https://github.com/8nz">
     <img src="https://discord.c99.nl/widget/theme-4/896776566573522944.png"/>

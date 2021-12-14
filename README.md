@@ -1,5 +1,5 @@
 # Profile Views
-![](https://komarev.com/ghpvc/?username=8nz)
+![](https://gpvc.arturio.dev/8nz)
 
 <p align="center">
   <a href="https://github.com/8nz">

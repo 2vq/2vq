@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/8nz">
-    <img src="https://discord.c99.nl/widget/theme-2/896776566573522944.png"/>
+    <img src="https://discord.c99.nl/widget/theme-3/896776566573522944.png"/>
      </a>
 
 # Nerd Stats

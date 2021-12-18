@@ -8,7 +8,6 @@
 
 # Nerd Stats
 <p align = "center">
-  # test
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8nz&layout=compact&theme=dark"/>
     <img src = "https://github-readme-stats.vercel.app/api?username=8nz&show_icons=true&theme=dracula"/>
 </p>

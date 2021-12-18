@@ -1,5 +1,8 @@
 # Profile Views
-![](https://gpvc.arturio.dev/8nz)
+<div id="top"></div>
+<p align="center">
+  <img src = "https://gpvc.arturio.dev/8nz"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/8nz">

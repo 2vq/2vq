@@ -1,6 +1,6 @@
 # Profile Views
 <p align = "center">
-  <img src = "https://gpvc.arturio.dev/9ze"/>
+  <img src = "https://gpvc.arturio.dev/8nz"/>
 </p>
 <p align = "center">
     <img src = "https://discord.c99.nl/widget/theme-3/896776566573522944.png"/>

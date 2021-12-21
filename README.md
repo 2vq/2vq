@@ -1,6 +1,6 @@
 # Profile Views
 <p align = "center">
-  <img src = "https://gpvc.arturio.dev/8nz"/>
+  <img src = "![](https://komarev.com/ghpvc/?username=8nz&color=d39efc)"/>
 </p>
 <p align = "center">
     <img src = "https://discord.c99.nl/widget/theme-3/896776566573522944.png"/>

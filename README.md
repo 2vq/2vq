@@ -3,7 +3,7 @@
   <img src = "https://komarev.com/ghpvc/?username=6vh&color=a27dbe"/>
 </p>
 <p align = "center">
-    <img src = "https://discord.c99.nl/widget/theme-3/896776566573522944.png"/>
+    <img src = "https://lanyard-profile-readme.vercel.app/api/896776566573522944"/>
 </p>
 
 # Nerd Stats
